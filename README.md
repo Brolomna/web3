@@ -1,1 +1,1 @@
-Hahaha
+This is a repo for my web3 AI based tool
